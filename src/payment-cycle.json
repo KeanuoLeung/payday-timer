@@ -1,0 +1,71 @@
+{
+  "id": 1281542,
+  "end": "2022-04-01T06:59:59.999Z",
+  "start": "2022-03-01T08:00:00.000Z",
+  "status": "awaiting_payment",
+  "due": "2022-04-06T06:59:59.999Z",
+  "total": {
+    "amount": "27600",
+    "bonus": "0"
+  },
+  "reports": [
+    {
+      "id": 2123745,
+      "status": "approved",
+      "description": "beecoming school platform",
+      "amount": 23,
+      "bonus": "0.0000",
+      "type": "work",
+      "when": "2022-03-30T07:00:00.000Z",
+      "filename": null,
+      "tax": null,
+      "total": "27600.0000",
+      "title": null,
+      "reviewReason": null,
+      "reviewedAt": null,
+      "invoiceId": 2739568,
+      "accountingIntegrationsData": null,
+      "createdAt": "2022-03-30T12:24:57.416Z",
+      "offCycleId": null,
+      "isSealed": false,
+      "reviewer": null,
+      "reporter": {
+        "id": 284694,
+        "name": "XINCHI LIANG",
+        "picUrl": "https://media.letsdeel.com/avatar/lJqLdvp7",
+        "profileType": "contractor",
+        "employee": false
+      },
+      "timeOffs": [],
+      "payrollIds": [],
+      "percentage": 0,
+      "isRecurring": false,
+      "approvers": [
+        {
+          "name": "Danqing Zhou",
+          "email": "danqing.zhou@beecoming.ai",
+          "approved": false
+        }
+      ]
+    }
+  ],
+  "invoice": {
+    "id": "Kt-NFyYszCc_FumaV5e3t",
+    "internalId": 2739568,
+    "status": "pending",
+    "invoiceLabel": "INV-2022-3",
+    "currency": "CNY",
+    "isSealed": false
+  },
+  "invoices": [
+    {
+      "id": "Kt-NFyYszCc_FumaV5e3t",
+      "internalId": 2739568,
+      "status": "pending",
+      "invoiceLabel": "INV-2022-3",
+      "currency": "CNY",
+      "isSealed": false
+    }
+  ],
+  "isProcessing": false
+}
